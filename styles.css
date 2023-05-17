@@ -1,31 +1,7 @@
-
-/* Your CSS Code here. */
-.box1{
-	content:"text on border";
-	margin:20px;
-	border:1px solid black;
-	
-}
-.box2{
-	margin:20px;
-	border:1px solid blue;
-	background-color:#0000FF;
-	
-}
-.box3{
-	margin:20px;
-	padding:50px;
-	border:1px solid black;
-	background-color:lightblue;
-}
-.box4{
-	margin:20px;
-	border:1px solid black;
-	width:300px;
-	
-	
-}
-.box5{
-	margin:20px;
-	border:1px dashed black;
+.box {
+	background-color: lightblue; 
+	padding: 50px;
+	width: 300px;
+	border: 15px solid blue;
+	margin: 20px;
 }
